@@ -4,11 +4,10 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Redressed", cursive;
+  font-family: "Akaya Kanadaka", cursive;
 }
 body {
-  background: #eee;
-  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  background: black;
   padding: 0 16px;
 }
 
@@ -21,7 +20,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "Redressed", cursive;
+  font-family: "Akaya Kanadaka", cursive;
   font-weight: 200;
 }
 
@@ -37,7 +36,7 @@ footer p {
   color: #ccc;
 }
 .note {
-  background: #fff;
+  background: white;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
@@ -84,7 +83,7 @@ form.create-note textarea {
   padding: 4px;
   outline: none;
   font-size: 1.2em;
-  font-family: "Redressed", cursive;
+  font-family: "Akaya Kanadaka", cursive;
   resize: none;
 }
 form.create-note button {
